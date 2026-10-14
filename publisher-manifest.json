@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b18eec0aee7e34a7a866af8f",
+  "owner": "jcpaept",
+  "repo": "page-8bf47d027c6c2748c5b2995a",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8bf47d027c6c2748c5b2995a",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "885e977d5bbc56309c07b9ab40005b5648f0f15569b2342ba186a689dcbda45c",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供专业的VPN加速服务，帮助用户实现高速稳定网络连接，解锁全球流媒体内容。立即下载客户端体验优质服务。",
+          "AI_DESCRIPTION": "GPT代充提供专业的VPN加速服务，帮助用户实现高速稳定网络连接，解锁全球流媒体内容。立即下载客户端体验优质服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;margin:0;padding:0;background:#0a2540;color:#e0f0ff}header{background:#001f3f;padding:1rem 0}nav{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center}nav a{color:#00d4ff;text-decoration:none;margin:0 1rem}nav a:hover{color:#00bfff}h1{font-size:2.5rem;color:#00d4ff;text-align:center;margin:2rem 0}main{max-width:1200px;margin:0 auto;padding:2rem}section{margin-bottom:3rem}.left-right{display:flex;gap:2rem;align-items:flex-start} @media (max-width:768px){.left-right{flex-direction:column}} .card{background:#142d4a;border-radius:8px;padding:1.5rem;margin-bottom:1rem}.card h3{color:#00bfff}table{width:100%;border-collapse:collapse;margin:2rem 0}th,td{border:1px solid #00bfff;padding:1rem;text-align:left}th{background:#001f3f}.featured{border:3px solid #00d4ff;background:#1a3a5f;box-shadow:0 0 15px rgba(0,212,255,0.3)}details{background:#142d4a;margin:1rem 0;border-radius:8px;padding:1rem}summary{font-weight:bold;cursor:pointer;color:#00d4ff}p{margin:1rem 0}footer{background:#001f3f;padding:2rem;text-align:center}footer a{color:#00d4ff;margin:0 1rem}</style><main><header><nav><a href=\"#\">首页</a><a href=\"#\">套餐</a><a href=\"#\">使用指南</a><a href=\"#\">FAQ</a></nav></header><h1>GPT代充</h1><section><h2>品牌简介</h2><p>GPT代充是一款专业的高速VPN网络加速器，提供稳定可靠的梯子服务，帮助用户畅享全球优质资源。无论日常浏览还是跨境连接，都能获得极致体验。</p></section><section><h2>使用场景</h2><div class=\"left-right\"><div><h3>流媒体解锁</h3><p>轻松解锁Netflix、Disney+、YouTube等全球热门平台，畅享高清无广告内容。</p></div><div><h3>游戏加速</h3><p>IPLC专线优化游戏延迟，支持多人在线竞技，提升游戏体验。</p></div><div><h3>远程办公</h3><p>稳定连接，保护隐私，高效工作，适合跨国团队协作。</p></div></div></section><section><h2>套餐对比</h2><div class=\"left-right\"><div><h3>基础版</h3><p>¥15/月<br>按年付仅需 ¥150/年</p><ul class=\"card\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"featured\"><h3>旗舰版</h3><p>¥35/月<br>按年付仅需 ¥350/年</p><ul class=\"card\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div><h3>团队版</h3><p>¥85/月<br>按年付仅需 ¥850/年</p><ul class=\"card\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section><h2>操作指南</h2><ol><li>选择适合您的套餐并完成支付</li><li>从官网下载客户端（支持Windows、Mac、iOS、Android）</li><li>安装并登录账号</li><li>选择最佳节点连接</li><li>享受高速网络加速</li></ol><p>支持多平台无缝切换，7x24在线客服提供专业指导。</p></section><section><h2>常见问题</h2><details><summary>1. GPT代充是什么？</summary><p>GPT代充是一款专业的VPN网络加速器，提供稳定高速的梯子服务，帮助用户安全上网，解锁全球内容。</p></details><details><summary>2. 支持哪些设备？</summary><p>支持多达20台设备同时在线，覆盖Windows、Mac、iOS、Android等多种平台。</p></details><details><summary>3. 流量如何使用？</summary><p>每月提供固定GB流量，超出部分可能限速或需升级套餐。</p></details><details><summary>4. 如何解锁流媒体？</summary><p>使用旗舰版及以上套餐，选择对应节点即可原生解锁Netflix、YouTube等。</p></details><details><summary>5. 客户支持如何？</summary><p>提供7x24优先工单支持，专属客服快速响应您的疑问。</p></details><details><summary>6. 支付方式？</summary><p>支持多种支付方式，包括支付宝、微信支付、信用卡等便捷支付。</p></details><details><summary>7. 退款政策是什么？</summary><p>开通后7天无理由退款，具体以官网协议为准。</p></details></section><footer><p><a href=\"#\">隐私政策</a> | <a href=\"#\">用户协议</a> | <a href=\"#\">联系我们</a></p><p>© 2024 GPT代充 所有权利保留</p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "e10a23537c8b9d72c40ec76159cbf916f59578b5e90095b70aa0faa60af58799",
+          "seo": {
+            "title": "GPT代充 - VPN加速器 客户端下载 官网",
+            "keywords": "GPT代充, VPN加速器, 机场订阅, 客户端下载, 网络加速, 梯子VPN, 流量包",
+            "description": "GPT代充提供专业的VPN加速服务，帮助用户实现高速稳定网络连接，解锁全球流媒体内容。立即下载客户端体验优质服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinzhu-edu.cn",
+    "host": "p-1fe00f3b74.xinzhu-edu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "980d76a491842678e21a828690175a3d34e980778e9f7cf17a1f66f6171df1d9",
+    "sitemap.xml": "f33030fde8772a2248cf919a5c9ac2f1771f33a9067aaaf37ed914b17c7e6bae",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e12f016117216dba022ae7260324572d63b9f45ada1e6da8ef6ec0a49773a34c",
+    "robots.txt": "4b94b3b7c425552b0762449c80dd73f92e8caa4e3e49babad2eb3b3b4bf6f8dc",
+    "1e931c2af5c1c3df33915698665cc90a.txt": "dcea365211be25a6034ab9b6e21cfedbbd9bfb9be3cd205a7434b9e0f0fe4cc3"
+  },
+  "revision": "ab0a9d33f1170569fc829d3f364ef9716f5da98c141d5c8c26674c68b8fc1525"
+}
